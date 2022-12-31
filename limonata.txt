@@ -2,7 +2,7 @@ limonata tarifi2
 
 limon 
 su 
-1 kup şeker
+1 kup şeker conflict
 nane
 buz
 portakal kabuğu
